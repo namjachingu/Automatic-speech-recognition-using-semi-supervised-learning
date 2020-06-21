@@ -1,0 +1,8 @@
+mtls0_si1370 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr4/mtls0/si1370.wav |
+mtls0_si2000 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr4/mtls0/si2000.wav |
+mtls0_si740 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr4/mtls0/si740.wav |
+mtls0_sx110 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr4/mtls0/sx110.wav |
+mtls0_sx20 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr4/mtls0/sx20.wav |
+mtls0_sx200 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr4/mtls0/sx200.wav |
+mtls0_sx290 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr4/mtls0/sx290.wav |
+mtls0_sx380 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr4/mtls0/sx380.wav |

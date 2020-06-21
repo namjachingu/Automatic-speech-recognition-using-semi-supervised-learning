@@ -1,0 +1,16 @@
+mglb0_si1534 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr3/mglb0/si1534.wav |
+mglb0_si2164 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr3/mglb0/si2164.wav |
+mglb0_si904 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr3/mglb0/si904.wav |
+mglb0_sx184 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr3/mglb0/sx184.wav |
+mglb0_sx274 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr3/mglb0/sx274.wav |
+mglb0_sx364 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr3/mglb0/sx364.wav |
+mglb0_sx4 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr3/mglb0/sx4.wav |
+mglb0_sx94 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr3/mglb0/sx94.wav |
+mgwt0_si1539 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr2/mgwt0/si1539.wav |
+mgwt0_si2169 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr2/mgwt0/si2169.wav |
+mgwt0_si909 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr2/mgwt0/si909.wav |
+mgwt0_sx189 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr2/mgwt0/sx189.wav |
+mgwt0_sx279 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr2/mgwt0/sx279.wav |
+mgwt0_sx369 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr2/mgwt0/sx369.wav |
+mgwt0_sx9 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr2/mgwt0/sx9.wav |
+mgwt0_sx99 /home/studenter/feliciar/work/kaldi/egs/timit/s5/../../../tools/sph2pipe_v2.5/sph2pipe -f wav /localhome/studenter/feliciar/timit/test/dr2/mgwt0/sx99.wav |

@@ -1,0 +1,16 @@
+# copy-feats 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split10/9/utt2spk scp:data/test/split10/9/cmvn.scp scp:data/test/split10/9/feats.scp ark:- | splice-feats --left-context=3 --right-context=3 ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- | transform-feats --utt2spk=ark:data/test/split10/9/utt2spk "ark:cat exp/tri3/decode_test/trans.* |" ark:- ark:- |' ark,scp:/home/studenter/feliciar/work/kaldi/egs/timit/s5/data-fmllr-tri3/test/data/feats_fmllr_test.9.ark,/home/studenter/feliciar/work/kaldi/egs/timit/s5/data-fmllr-tri3/test/data/feats_fmllr_test.9.scp 
+# Started at Thu Oct 10 08:47:24 CEST 2019
+#
+copy-feats 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split10/9/utt2spk scp:data/test/split10/9/cmvn.scp scp:data/test/split10/9/feats.scp ark:- | splice-feats --left-context=3 --right-context=3 ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- | transform-feats --utt2spk=ark:data/test/split10/9/utt2spk "ark:cat exp/tri3/decode_test/trans.* |" ark:- ark:- |' ark,scp:/home/studenter/feliciar/work/kaldi/egs/timit/s5/data-fmllr-tri3/test/data/feats_fmllr_test.9.ark,/home/studenter/feliciar/work/kaldi/egs/timit/s5/data-fmllr-tri3/test/data/feats_fmllr_test.9.scp 
+transform-feats --utt2spk=ark:data/test/split10/9/utt2spk 'ark:cat exp/tri3/decode_test/trans.* |' ark:- ark:- 
+transform-feats exp/tri3/final.mat ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split10/9/utt2spk scp:data/test/split10/9/cmvn.scp scp:data/test/split10/9/feats.scp ark:- 
+splice-feats --left-context=3 --right-context=3 ark:- ark:- 
+LOG (apply-cmvn[5.5]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 16 utterances, errors on 0
+LOG (transform-feats[5.5]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -88.2832 over 4651 frames.
+LOG (transform-feats[5.5]:main():transform-feats.cc:161) Applied transform to 16 utterances; 0 had errors.
+LOG (transform-feats[5.5]:main():transform-feats.cc:158) Overall average logdet is 2.71282 over 4651 frames.
+LOG (transform-feats[5.5]:main():transform-feats.cc:161) Applied transform to 16 utterances; 0 had errors.
+LOG (copy-feats[5.5]:main():copy-feats.cc:143) Copied 16 feature matrices.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Thu Oct 10 08:47:25 CEST 2019, elapsed time 1 seconds
