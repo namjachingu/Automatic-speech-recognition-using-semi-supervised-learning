@@ -9,3 +9,6 @@ The features and the targets were obtained through the Kaldi toolkit.
 The experiments conducted in this paper were evaluated on the TIMIT Corpus data set. The TIMIT corpus has a training set, 
 a validation set, and a test set. The training set has 3696 utterances, the validation has 400 utterances, and the test set has 192 utterances.
 
+Full published paper can be found in the following link:
+
+https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778123
