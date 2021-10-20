@@ -1,4 +1,4 @@
-# Master-s-thesis
+# Automatic speech recognition using semi-supervised learning
 Master's thesis regarding semi-supervised learning for automatic speech recognition (ASR). 
 
 Two teacher/student (T/S) networks were implemented to explore semi-supervised learning for ASR. The teacher model was built on a deep neural network (DNN), 
